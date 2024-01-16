@@ -1,6 +1,5 @@
 ## Hi there! I'm ES.C 👋
-안녕하세요. ES.C 입니다.<br><br>
-es.c.ape1001@hanmail.net
+안녕하세요. ES.C 입니다.
 <br><br>
 ## :pencil2: Skills & Tools
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" height="25"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" alt="jquery" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" height="25"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" height="30"/>
